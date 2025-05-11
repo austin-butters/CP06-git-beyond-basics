@@ -1,2 +1,3 @@
 ON MAIN BRANCH: Add a first line to file.
 ON MAIN BRANCH: Add a second line to file.
+ON NEW BRANCH: Add a (different) second line to file.
